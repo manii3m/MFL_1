@@ -69,20 +69,6 @@ Alerts and Reports
 
 *Final hardware models, interfaces, and compatibility will be confirmed during detailed design.*
 
-## Suggested Repository Structure
-
-```text
-conveyor-belt-health-monitoring/
-├── dashboard/
-├── data/
-├── processing/
-├── mechanical-design/
-├── docs/
-└── README.md
-```
-
-*This is a suggested structure. Update it to match the actual files and folders in the repository.*
-
 ## Expected Benefits
 
 - Earlier identification of potential belt defects.
